@@ -1,0 +1,13 @@
+body{
+    font-family: Tahoma;
+    font-size: 14px;
+    
+}
+.view table {
+    border-collapse: collapse;
+}
+
+.view table th, td {
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+}

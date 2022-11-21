@@ -1,0 +1,33 @@
+body{
+    background: #ddd;
+    margin: 0;
+}
+.login {
+    width: 400px;
+    margin: auto;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%);
+    border: #fff;
+    border-radius: 3px;
+    padding: 20px;
+    background: #fff;
+}
+.login input{
+    width: 100%;
+    display: block;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin: 10px 0;
+    border-radius: 3px;
+    box-sizing: border-box;
+    font-family: Tahoma;
+    font-size: 16px;
+
+}
+.login input[type="submit"]{
+    cursor: pointer;
+    background: #3898db;
+    color: #FFF;
+}

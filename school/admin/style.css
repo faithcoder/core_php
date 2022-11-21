@@ -1,0 +1,37 @@
+.error{
+    color: red;
+    font-style: italic;
+
+}
+
+.panel-area{
+    background: #007BFF;
+    color: #fff;
+    padding: 10px;
+    margin-right:20px;
+
+}
+.main-area{
+    min-height:500px;
+}
+.panel-primary{
+    padding:15px;
+}
+.panel-footer{
+    color: #fff;
+}
+
+.footer-area{
+    background: #007BFF;
+    color: #fff;
+    padding: 20px 0;
+    margin-top: 20px;
+}
+.footer-area > p {
+    margin: 0;
+}
+
+main{
+    background: #000;
+    margin-left: ;
+}

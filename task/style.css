@@ -1,0 +1,23 @@
+body{
+    font-family: Tahoma;
+    font-size: 14px;
+    
+}
+.data{
+    margin-top: 100px;
+}
+.data a {
+
+}
+.view table {
+    border-collapse: collapse;
+}
+
+.view table th, td {
+    border: 1px solid #ddd;
+    padding: 10px 20px;
+}
+input{
+    width:100% !important;
+    display: inline-block;
+}
